@@ -1,0 +1,1 @@
+sudo ./setup_kali_persistence.sh
