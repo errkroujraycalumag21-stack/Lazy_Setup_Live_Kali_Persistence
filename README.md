@@ -12,9 +12,15 @@ sudo ./setup_kali_persistence.sh
 
 
 #USING THE PYTHON FILE
+
 -JUST DOWNLOAD THE PYTHON PERSISTENCE_AUTO_SETUP
--OPEN TERMINAL "go to Downloads then open terminal in that directory"
+
+-OPEN TERMINAL "go to Downloads then open terminal in that directory using F4"
+
 -ENTER "lsblk"
+
 -RUN "persistence_auto_Setup.py"
+
 -ENTER THE CORRECT DRIVE "sda,sbd, etc"
+
 -THEN WAIT TILL IR REBOOT'S
