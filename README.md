@@ -13,7 +13,7 @@ sudo ./setup_kali_persistence.sh
 
 #USING THE PYTHON FILE
 
--JUST DOWNLOAD THE PYTHON PERSISTENCE_AUTO_SETUP
+-JUST DOWNLOAD THE PYTHON PERSISTENCE_AUTO_SETUP.PY
 
 -OPEN TERMINAL "go to Downloads then open terminal in that directory using F4"
 
